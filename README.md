@@ -115,31 +115,31 @@ Consolidates the early-stage recon steps a pentester normally runs across separa
 ## 🎯 Cybersecurity Skills
 
 **Offensive Security**
-![](https://img.shields.io/badge/Penetration%20Testing-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Ethical%20Hacking-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Web%20Application%20Security-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Bug%20Bounty-0D1117?style=flat-square)
-![](https://img.shields.io/badge/VAPT-0D1117?style=flat-square)
-![](https://img.shields.io/badge/OWASP%20Top%2010-0D1117?style=flat-square)
-![](https://img.shields.io/badge/CTF%20Challenges-0D1117?style=flat-square)
+![](https://img.shields.io/badge/Penetration%20Testing-30363D?style=flat-square)
+![](https://img.shields.io/badge/Ethical%20Hacking-30363D?style=flat-square)
+![](https://img.shields.io/badge/Web%20Application%20Security-30363D?style=flat-square)
+![](https://img.shields.io/badge/Bug%20Bounty-30363D?style=flat-square)
+![](https://img.shields.io/badge/VAPT-30363D?style=flat-square)
+![](https://img.shields.io/badge/OWASP%20Top%2010-30363D?style=flat-square)
+![](https://img.shields.io/badge/CTF%20Challenges-30363D?style=flat-square)
 
 **Security Concepts**
-![](https://img.shields.io/badge/Network%20Security-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Computer%20Networking-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Cryptography-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Malware%20Analysis-0D1117?style=flat-square)
-![](https://img.shields.io/badge/IoT%20Security-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Threat%20Intelligence-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Cloud%20Security-0D1117?style=flat-square)
+![](https://img.shields.io/badge/Network%20Security-30363D?style=flat-square)
+![](https://img.shields.io/badge/Computer%20Networking-30363D?style=flat-square)
+![](https://img.shields.io/badge/Cryptography-30363D?style=flat-square)
+![](https://img.shields.io/badge/Malware%20Analysis-30363D?style=flat-square)
+![](https://img.shields.io/badge/IoT%20Security-30363D?style=flat-square)
+![](https://img.shields.io/badge/Threat%20Intelligence-30363D?style=flat-square)
+![](https://img.shields.io/badge/Cloud%20Security-30363D?style=flat-square)
 
 **AI Security**
-![](https://img.shields.io/badge/AI%20Security-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Prompt%20Injection-0D1117?style=flat-square)
+![](https://img.shields.io/badge/AI%20Security-30363D?style=flat-square)
+![](https://img.shields.io/badge/Prompt%20Injection-30363D?style=flat-square)
 
 **Practical Skills**
-![](https://img.shields.io/badge/Bash%20Scripting-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Linux-0D1117?style=flat-square)
-![](https://img.shields.io/badge/Python%20Automation-0D1117?style=flat-square)
+![](https://img.shields.io/badge/Bash%20Scripting-30363D?style=flat-square)
+![](https://img.shields.io/badge/Linux-30363D?style=flat-square)
+![](https://img.shields.io/badge/Python%20Automation-30363D?style=flat-square)
 
 </div>
 
@@ -182,19 +182,6 @@ Consolidates the early-stage recon steps a pentester normally runs across separa
 **AI & Data**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=aaaryan04&show_icons=true&count_private=true&hide_border=true&theme=shadow_blue" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaryan04&layout=compact&hide_border=true&theme=shadow_blue" alt="Most Used Languages" height="165"/>
 
 </div>
 
